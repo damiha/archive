@@ -1,5 +1,3 @@
-# recent projects
-
 ## [15-puzzle](https://github.com/damiha/15-puzzle)
 
 A simple GUI application written in python with tkinter that solves the 15-puzzle using basic search algorithms.
