@@ -1,4 +1,4 @@
-# portfolio
+# recent projects
 
 ## 15-puzzle
 
