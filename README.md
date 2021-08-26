@@ -11,4 +11,4 @@ A simple GUI application written in python with tkinter that solves the 15-puzzl
 - **apply**     the search algorithm to the game board.
 - **step**      through the solution forward and backwards.
 
- 	![alt text](images/15-puzzle-pages.png)
+ 	![alt text](/images/15-puzzle-pages.png)
