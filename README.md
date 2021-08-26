@@ -1,6 +1,3 @@
-title-heading: false
-
-# recent projects
 
 ## [15-puzzle](https://github.com/damiha/15-puzzle)
 
