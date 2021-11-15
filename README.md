@@ -1,3 +1,6 @@
+## [wiki-walker](https://github.com/damiha/wiki-walker)
+
+Select two wikipages and watch the walker navigate through Wikipedia.
 
 ## [sudoku-solver](https://github.com/damiha/sudoku-solver)
 
